@@ -1,0 +1,2 @@
+include ':app', ':flowlayout-lib'
+rootProject.name='FlowLayout'
